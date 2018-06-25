@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    max-width:100% !important;
+}
+header,nav, section{
+    display: block;
+}
+header{
+    background: #1272b6;
+    padding:20px;
+    height: 76px;
+    line-height: 75px;
+    vertical-align: middle;
+}
+.nav-logo{
+    float: left;
+}
+.nav-menu{
+    float: right;
+}
+#banner{
+    background: #000;
+}
+.banner-img img{
+    width: 100%;
+}
